@@ -1,4 +1,7 @@
-# testowe_repozytorium
-cwiczenie z wykorzystaniem GithubPages
+## Repozytorium utworzone w celach ćwiczeniowych
+# Ćwiczenie z wykorzystaniem GithubPages:
 
-[A to jest link do GithubPages](https://andrzejmidura.github.io/testowe_repozytorium/)
+[https://andrzejmidura.github.io/](https://andrzejmidura.github.io/)
+
+# Ćwiczenie z wykorzystaniem forka:
+
