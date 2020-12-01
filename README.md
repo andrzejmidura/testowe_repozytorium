@@ -1,7 +1,7 @@
 ## Repozytorium utworzone w celach ćwiczeniowych
 
 #### Ćwiczenie z wykorzystaniem GithubPages:
-- [https://andrzejmidura.github.io/](https://andrzejmidura.github.io/)
+- [https://andrzejmidura.github.io/testowe_repozytorium/](https://andrzejmidura.github.io/testowe_repozytorium/)
 
 #### Ćwiczenie z wykorzystaniem forka:
 
