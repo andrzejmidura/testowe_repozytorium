@@ -1,4 +1,4 @@
-<h1>Projekt <font color="#26c952">Kebattle</font></h1>
+# Projekt **KEBATTLE**
 
 ----
 
