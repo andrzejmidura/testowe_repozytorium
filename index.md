@@ -12,5 +12,5 @@ Ma ona za zadanie:
 * Przyspieszyć ich **realizację** przy pomocy intuicyjnego interfejsu graficznego
 
 Który prezentuje się w ten sposób:
-![Kebattle Home Page](https://github.com/andrzejmidura/testowe_repozytorium/blob/main/obraz_2020-12-17_182116.png)
+![Kebattle Home Page](https://github.com/andrzejmidura/testowe_repozytorium/blob/gh-pages/kebatle.PNG)
 
